@@ -1,1 +1,1 @@
-# stuff4ugames
+# stuff4ugames is... well... stuff 4 you games! i will add stuff here from time to time, and you can download it! if you're using unity, unreal, godot or whatever,  these files should work with the engine and help you build the game of your dreams. 
